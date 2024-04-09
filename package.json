@@ -1,0 +1,15 @@
+{
+    "name": "express-mysql-crud-dashboard",
+    "version": "1.0.0",
+    "description": "Simple CRUD dashboard application using Express.js and MySQL",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "Harsh Khambra",
+    "license": "MIT",
+    "dependencies": {
+      "<dependencies>": "<version>"
+    }
+  }
+  
